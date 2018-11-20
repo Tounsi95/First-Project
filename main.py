@@ -1,5 +1,5 @@
-
+#!/bin/env python3
 
 name = input("What is your name? \n");
 
-print("Your name is " + name);
+print("Hello there, %s. Nice to meet your!" % name);
